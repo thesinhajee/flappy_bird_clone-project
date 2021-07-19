@@ -1,4 +1,4 @@
-# flappy_bird_clone-project
+# Flappy Bird Clone Project
 
 **Pygame** has been used to make this project. This project is a clone of popular game Flappy Bird. The player has to overcome multiple hurdles to score point. In the duration of the game, the bird continues to move downwards unless, left mouse button is pressed which imparts it an upward velocity. **pygame.sprite** module is used for handling different sprites such as pipes, bird.
 
